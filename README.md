@@ -1,5 +1,6 @@
 Overview
-This portfolio is designed to be fully responsive, providing an optimal viewing experience across a range of devices—from desktops to mobile phones. The project demonstrates my proficiency in creating modern, interactive, and visually appealing web pages.
+This portfolio is designed to be fully responsive, providing an optimal viewing experience across a range of devices—from desktops to mobile phones.
+The project demonstrates my proficiency in creating modern, interactive, and visually appealing web pages.
 
 Features
 Responsive Design: Utilizes CSS media queries to ensure the portfolio looks great on various screen sizes and devices.
